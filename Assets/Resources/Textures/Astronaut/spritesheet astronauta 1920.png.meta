@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: 2dbd2dd4e1ad6ef49893e5490875997e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritesheet astronauta 1920_0
+    21300002: spritesheet astronauta 1920_1
+    21300004: spritesheet astronauta 1920_2
+    21300006: spritesheet astronauta 1920_3
+    21300008: spritesheet astronauta 1920_4
+    21300010: spritesheet astronauta 1920_5
+    21300012: spritesheet astronauta 1920_6
+    21300014: spritesheet astronauta 1920_7
+    21300016: spritesheet astronauta 1920_8
+    21300018: spritesheet astronauta 1920_9
+    21300020: spritesheet astronauta 1920_10
+    21300022: spritesheet astronauta 1920_11
+    21300024: spritesheet astronauta 1920_12
+    21300026: spritesheet astronauta 1920_13
+    21300028: spritesheet astronauta 1920_14
+    21300030: spritesheet astronauta 1920_15
+    21300032: spritesheet astronauta 1920_16
+    21300034: spritesheet astronauta 1920_17
+    21300036: spritesheet astronauta 1920_18
+    21300038: spritesheet astronauta 1920_19
+    21300040: spritesheet astronauta 1920_20
+    21300042: spritesheet astronauta 1920_21
+    21300044: spritesheet astronauta 1920_22
+    21300046: spritesheet astronauta 1920_23
+    21300048: spritesheet astronauta 1920_24
+    21300050: spritesheet astronauta 1920_25
+    21300052: spritesheet astronauta 1920_26
+    21300054: spritesheet astronauta 1920_27
+    21300056: spritesheet astronauta 1920_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spritesheet astronauta 1920_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 222
+        width: 129
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet astronauta 1920_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 226
+        width: 125
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet astronauta 1920_2
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 221
+        width: 110
+        height: 177
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet astronauta 1920_3
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 215
+        width: 106
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet astronauta 1920_4
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 218
+        width: 105
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet astronauta 1920_5
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 216
+        width: 114
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet astronauta 1920_6
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 212
+        width: 105
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet astronauta 1920_7
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 218
+        width: 105
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet astronauta 1920_8
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 214
+        width: 105
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet astronauta 1920_9
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 214
+        width: 105
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet astronauta 1920_10
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 212
+        width: 128
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet astronauta 1920_11
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 212
+        width: 118
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet astronauta 1920_12
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 216
+        width: 151
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet astronauta 1920_13
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 218
+        width: 126
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet astronauta 1920_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 23
+        width: 126
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet astronauta 1920_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 23
+        width: 151
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet astronauta 1920_16
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 18
+        width: 118
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet astronauta 1920_17
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 18
+        width: 129
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet astronauta 1920_18
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 22
+        width: 105
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet astronauta 1920_19
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 22
+        width: 105
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet astronauta 1920_20
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 25
+        width: 105
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet astronauta 1920_21
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 19
+        width: 105
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet astronauta 1920_22
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 23
+        width: 112
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet astronauta 1920_23
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 24
+        width: 105
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet astronauta 1920_24
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 23
+        width: 106
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet astronauta 1920_25
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 28
+        width: 111
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet astronauta 1920_26
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 32
+        width: 125
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet astronauta 1920_27
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 27
+        width: 128
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet astronauta 1920_28
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 220
+        width: 104
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

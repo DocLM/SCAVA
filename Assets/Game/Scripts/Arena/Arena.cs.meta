@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: ab4a6cfcfa901174eb31426ab91fa9dc
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - buriedGunPrefab: {fileID: 177928, guid: aa0b259af07ca7d469676a9c3d9eaca4, type: 2}
+  - buriedGun: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

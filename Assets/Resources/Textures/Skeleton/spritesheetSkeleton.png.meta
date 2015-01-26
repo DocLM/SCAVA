@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 314015a670cc0044eb5c7fef9d46f5e9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritesheet scheletro 1920_0
+    21300002: spritesheet scheletro 1920_1
+    21300004: spritesheet scheletro 1920_2
+    21300006: spritesheet scheletro 1920_3
+    21300008: spritesheet scheletro 1920_4
+    21300010: spritesheet scheletro 1920_5
+    21300012: spritesheet scheletro 1920_6
+    21300014: spritesheet scheletro 1920_7
+    21300016: spritesheet scheletro 1920_8
+    21300018: spritesheet scheletro 1920_9
+    21300020: spritesheet scheletro 1920_10
+    21300022: spritesheet scheletro 1920_11
+    21300024: spritesheet scheletro 1920_12
+    21300026: spritesheet scheletro 1920_13
+    21300028: spritesheet scheletro 1920_14
+    21300030: spritesheet scheletro 1920_15
+    21300032: spritesheet scheletro 1920_16
+    21300034: spritesheet scheletro 1920_17
+    21300036: spritesheet scheletro 1920_18
+    21300038: spritesheet scheletro 1920_19
+    21300040: spritesheet scheletro 1920_20
+    21300042: spritesheet scheletro 1920_21
+    21300044: spritesheet scheletro 1920_22
+    21300046: spritesheet scheletro 1920_23
+    21300048: spritesheet scheletro 1920_24
+    21300050: spritesheet scheletro 1920_25
+    21300052: spritesheet scheletro 1920_26
+    21300054: spritesheet scheletro 1920_27
+    21300056: spritesheet scheletro 1920_28
+    21300058: spritesheet scheletro 1920_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spritesheet scheletro 1920_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 226
+        width: 112
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet scheletro 1920_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 225
+        width: 106
+        height: 170
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet scheletro 1920_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 225
+        width: 111
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet scheletro 1920_3
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 221
+        width: 109
+        height: 175
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet scheletro 1920_4
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 214
+        width: 108
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet scheletro 1920_5
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 216
+        width: 111
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet scheletro 1920_6
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 216
+        width: 107
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet scheletro 1920_7
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 216
+        width: 107
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet scheletro 1920_8
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 214
+        width: 105
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet scheletro 1920_9
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 212
+        width: 108
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet scheletro 1920_10
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 210
+        width: 112
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet scheletro 1920_11
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 212
+        width: 120
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet scheletro 1920_12
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 210
+        width: 106
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet scheletro 1920_13
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 210
+        width: 111
+        height: 173
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet scheletro 1920_14
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 207
+        width: 112
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet scheletro 1920_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 8
+        width: 121
+        height: 173
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet scheletro 1920_16
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 10
+        width: 113
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet scheletro 1920_17
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 11
+        width: 108
+        height: 175
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet scheletro 1920_18
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 14
+        width: 123
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet scheletro 1920_19
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 10
+        width: 106
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet scheletro 1920_20
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 11
+        width: 109
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet scheletro 1920_21
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 14
+        width: 105
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet scheletro 1920_22
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 14
+        width: 106
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet scheletro 1920_23
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 16
+        width: 107
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet scheletro 1920_24
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 18
+        width: 109
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet scheletro 1920_25
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 16
+        width: 110
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet scheletro 1920_26
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 20
+        width: 108
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet scheletro 1920_27
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 23
+        width: 111
+        height: 170
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet scheletro 1920_28
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 23
+        width: 106
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet scheletro 1920_29
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 23
+        width: 112
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

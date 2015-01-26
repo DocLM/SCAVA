@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 8948ef53dc9d52f4ab0b0d5cacb1f225
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritesheet becchino 1920_0
+    21300002: spritesheet becchino 1920_1
+    21300004: spritesheet becchino 1920_2
+    21300006: spritesheet becchino 1920_3
+    21300008: spritesheet becchino 1920_5
+    21300010: spritesheet becchino 1920_6
+    21300012: spritesheet becchino 1920_7
+    21300014: spritesheet becchino 1920_8
+    21300016: spritesheet becchino 1920_9
+    21300018: spritesheet becchino 1920_10
+    21300020: spritesheet becchino 1920_11
+    21300022: spritesheet becchino 1920_12
+    21300024: spritesheet becchino 1920_13
+    21300026: spritesheet becchino 1920_14
+    21300028: spritesheet becchino 1920_15
+    21300030: spritesheet becchino 1920_16
+    21300032: spritesheet becchino 1920_17
+    21300034: spritesheet becchino 1920_18
+    21300036: spritesheet becchino 1920_19
+    21300038: spritesheet becchino 1920_20
+    21300040: spritesheet becchino 1920_21
+    21300042: spritesheet becchino 1920_22
+    21300044: spritesheet becchino 1920_23
+    21300046: spritesheet becchino 1920_24
+    21300048: spritesheet becchino 1920_26
+    21300050: spritesheet becchino 1920_27
+    21300052: spritesheet becchino 1920_28
+    21300054: spritesheet becchino 1920_29
+    21300056: spritesheet becchino 1920_30
+    21300058: spritesheet becchino 1920_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spritesheet becchino 1920_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 82
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet becchino 1920_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 291
+        width: 89
+        height: 179
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet becchino 1920_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 292
+        width: 101
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet becchino 1920_3
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 290
+        width: 101
+        height: 179
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet becchino 1920_5
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 294
+        width: 97
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet becchino 1920_6
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 290
+        width: 98
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet becchino 1920_7
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 290
+        width: 96
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet becchino 1920_8
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 292
+        width: 98
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet becchino 1920_9
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 296
+        width: 82
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet becchino 1920_10
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 296
+        width: 79
+        height: 179
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet becchino 1920_11
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 292
+        width: 84
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet becchino 1920_12
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 290
+        width: 111
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet becchino 1920_13
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 292
+        width: 167
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet becchino 1920_14
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 294
+        width: 125
+        height: 175
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet becchino 1920_15
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 295
+        width: 137
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet becchino 1920_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 46
+        width: 167
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet becchino 1920_17
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 45
+        width: 110
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet becchino 1920_18
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 46
+        width: 84
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet becchino 1920_19
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 48
+        width: 81
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet becchino 1920_20
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 48
+        width: 82
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet becchino 1920_21
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 46
+        width: 97
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet becchino 1920_22
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 44
+        width: 96
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet becchino 1920_23
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 46
+        width: 98
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet becchino 1920_24
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 48
+        width: 98
+        height: 175
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet becchino 1920_26
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 43
+        width: 103
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet becchino 1920_27
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 46
+        width: 101
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet becchino 1920_28
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 50
+        width: 125
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet becchino 1920_29
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 46
+        width: 82
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet becchino 1920_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 46
+        width: 133
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet becchino 1920_31
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 44
+        width: 88
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

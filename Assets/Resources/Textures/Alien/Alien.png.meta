@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 762839c99b2bcd142bc909d08aab066f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Alien_0
+    21300002: Alien_1
+    21300004: Alien_2
+    21300006: Alien_4
+    21300008: Alien_5
+    21300010: Alien_6
+    21300012: Alien_7
+    21300014: Alien_9
+    21300016: Alien_10
+    21300018: Alien_11
+    21300020: Alien_12
+    21300022: Alien_13
+    21300024: Alien_14
+    21300026: Alien_15
+    21300028: Alien_16
+    21300030: Alien_17
+    21300032: Alien_19
+    21300034: Alien_20
+    21300036: Alien_21
+    21300038: Alien_22
+    21300040: Alien_23
+    21300042: Alien_25
+    21300044: Alien_26
+    21300046: Alien_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Alien_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 392
+        width: 167
+        height: 334
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 392
+        width: 147
+        height: 334
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_2
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 392
+        width: 169
+        height: 334
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_4
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 383
+        width: 220
+        height: 340
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_5
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 398
+        width: 180
+        height: 321
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_6
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 400
+        width: 239
+        height: 315
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_7
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 393
+        width: 216
+        height: 365
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_9
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 398
+        width: 171
+        height: 329
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_10
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 396
+        width: 165
+        height: 335
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_11
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 398
+        width: 180
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_12
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 398
+        width: 180
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_13
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 398
+        width: 180
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 180
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_15
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 38
+        width: 180
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_16
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 38
+        width: 180
+        height: 360
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_17
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 48
+        width: 168
+        height: 335
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_19
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 48
+        width: 165
+        height: 333
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_20
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 45
+        width: 214
+        height: 353
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_21
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 43
+        width: 237
+        height: 352
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_22
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 48
+        width: 171
+        height: 347
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_23
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 45
+        width: 227
+        height: 348
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_25
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 45
+        width: 170
+        height: 334
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_26
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 45
+        width: 172
+        height: 334
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alien_27
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 45
+        width: 170
+        height: 334
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
